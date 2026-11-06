@@ -2,25 +2,33 @@
 
 **Structural Engineer | 5 Years of Experience**
 
-I’m a structural engineer with five years of experience in structural engineering. My work includes structural analysis and design, reviewing structural calculations, and checking design documentation for clarity, consistency, and alignment with applicable project requirements and codes.
+I work in structural engineering, with experience in structural analysis and design and reviewing structural calculations. I’m interested in applying programming and visualization to make structural engineering workflows clearer, more efficient, and easier to validate.
 
-## Skills
+## Engineering Skills
 
 - Structural analysis and design
-- Review and verification of structural calculations
+- Structural calculation review and verification
 - Load assessment and load-path review
-- Reinforced concrete and steel structure design
+- Reinforced concrete and steel structures
 - Design documentation and technical coordination
-- Building-code and project-criteria compliance checks
+- Checking calculations against applicable design codes and project criteria
 
-## Structural Engineering Software
+## Software
 
-- ETABS
-- SAP2000
-- STAAD.Pro
-- SAFE
-- AutoCAD
+ETABS · SAP2000 · STAAD.Pro · SAFE · AutoCAD
 
-## What I’m interested in
+## Engineering + Code
 
-Improving safe, practical, and efficient structural designs, and collaborating on engineering projects and tools that support structural analysis and design workflows.
+I’m interested in building and exploring practical tools such as:
+
+- Beam and truss solvers with shear, moment, and axial-force diagrams
+- Structural calculation review and design-check workflows
+- Parametric bridge and truss generators
+- Frame-analysis and structural visualization tools
+- Truss optimization demonstrations
+
+Potential project technologies include Python, NumPy/SciPy, and visualization tools such as Plotly or Three.js. Any analysis or design tool should be treated as an educational or preliminary aid and independently checked by a qualified engineer before use in practice.
+
+## Connect
+
+Feel free to explore my repositories or connect with me to discuss structural engineering, analysis, and engineering software.
