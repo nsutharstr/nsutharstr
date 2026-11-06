@@ -55,6 +55,16 @@ Professional exposure to structural engineering projects involving:
 - Existing building evaluation and structural modelling
 - Structural model updates and engineering calculation reviews
 
+## Featured Project
+
+### StructLab — Structural Analysis & Visualization Toolkit
+
+An interactive, browser-based structural analysis application for **continuous beams, rigid portal frames, and pin-jointed 2D trusses**.
+
+- **Technology:** JavaScript
+- **Focus:** Finite Element Method, structural analysis, and engineering visualization
+- **Suggested repository name:** `structlab-structural-analysis`
+
 ## Engineering Meets Programming
 
 I am interested in developing computational tools that connect structural engineering theory with practical engineering applications.
@@ -100,7 +110,7 @@ I am interested in developing computational tools that connect structural engine
 
 ## Technologies and Libraries
 
-**Programming:** Python, Excel VBA
+**Programming:** Python, JavaScript, Excel VBA
 
 **Scientific Computing:** NumPy, SciPy, Pandas
 
