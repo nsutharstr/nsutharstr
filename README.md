@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Naveen Suthar 👋
 
-<!--
-**nsutharstr/nsutharstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Structural Engineer | 5 Years of Experience**
 
-Here are some ideas to get you started:
+I’m a structural engineer with five years of experience in structural engineering. My work includes structural analysis and design, reviewing structural calculations, and checking design documentation for clarity, consistency, and alignment with applicable project requirements and codes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Structural analysis and design
+- Review and verification of structural calculations
+- Load assessment and load-path review
+- Reinforced concrete and steel structure design
+- Design documentation and technical coordination
+- Building-code and project-criteria compliance checks
+
+## Structural Engineering Software
+
+- ETABS
+- SAP2000
+- STAAD.Pro
+- SAFE
+- AutoCAD
+
+## What I’m interested in
+
+Improving safe, practical, and efficient structural designs, and collaborating on engineering projects and tools that support structural analysis and design workflows.
